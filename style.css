@@ -1,0 +1,11 @@
+button{
+   margin-left: 50%;
+   border-radius: 1em;
+   width: 90px;
+   height: 40px;
+}
+
+body{
+    background-image: url(quizbg.jpg);
+    color: aqua;
+}
